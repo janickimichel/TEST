@@ -1,13 +1,9 @@
 // TinyBASIC.cpp : An implementation of TinyBASIC in C
-//
 // Author : Mike Field - hamster@snap.net.nz
-//
 // Based on TinyBasic for 68000, by Gordon Brandly
 // (see http://members.shaw.ca/gbrandly/68ktinyb.html)
-//
 // which itself was Derived from Palo Alto Tiny BASIC as 
 // published in the May 1976 issue of Dr. Dobb's Journal.  
-// 
 // 0.03 21/01/2011 : Added INPUT routine 
 //                 : Reorganised memory layout
 //                 : Expanded all error messages
@@ -1369,4 +1365,13 @@ return(0);
 int getTempFloat() {
 return(0);
 }
+
+
+int toto() {
+		return 0;
+	
+}
+
+
+
 
