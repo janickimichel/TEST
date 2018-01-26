@@ -1368,10 +1368,6 @@ return(0);
 }
 
 
-int toto() {
-		return 0;
-	
-}
 
 
 
